@@ -8,10 +8,10 @@ The practical session aims to provide hands-on experience in detecting and analy
 
 ## Repository Structure
 
-- Contains CSV files with GitHub account information.
-- Includes Python scripts for bot identification and analysis.
-- Contains JupyterLab notebooks for data analysis tasks.
-- List of required Python packages.
+- Contains CSV files with GitHub account information
+- Includes Python scripts for bot identification and analysis
+- Contains JupyterLab notebooks for data analysis tasks
+- List of required Python packages
 
 ## Instructions for Participants
 
